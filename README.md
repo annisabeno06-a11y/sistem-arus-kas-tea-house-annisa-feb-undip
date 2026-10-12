@@ -1,6 +1,6 @@
 # Sistem Akuntansi Arus Kas Annisa Beno Tea House
 
-[Demo Website](https://annisabeno06-a11y.github.io/sistem-arus-kas-tea-house-annisa-feb-undip/)
+**Demo Website:** [https://annisabeno06-a11y.github.io/sistem-arus-kas-tea-house-annisa-feb-undip/](https://annisabeno06-a11y.github.io/sistem-arus-kas-tea-house-annisa-feb-undip/)
 
 Aplikasi pembukuan kas sederhana dengan antarmuka HTML/CSS/JavaScript, server Node.js tanpa dependensi eksternal, dan Supabase PostgreSQL sebagai penyimpanan terpusat. Data transaksi tidak disimpan di `localStorage`.
 
